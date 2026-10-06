@@ -1,6 +1,6 @@
 # Hi, I'm Usman Oseni 👋
 
-### Frontend Developer | Software Engineering Enthusiast
+### MERN Stack Developer | AI Engineering Enthusiast
 
 I'm a passionate frontend developer and aspiring software engineer interested in building clean, responsive, and user-friendly digital experiences.
 
@@ -24,6 +24,6 @@ I'm a passionate frontend developer and aspiring software engineer interested in
 
 ### 🎯 Goal
 
-To become a versatile software engineer who combines software development, data, and AI to build solutions that solve real-world problems.
+To become a versatile AI software engineer who combines software development, data, and AI to build solutions that solve real-world problems.
 
 **HusTech** — Building, learning, and growing through technology.
